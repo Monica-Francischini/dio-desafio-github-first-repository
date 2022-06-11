@@ -1,0 +1,9 @@
+Comandos Git:
+ls –listar conteúdo da pasta
+cd – acessar pasta
+cd .. – voltar uma pasta acima
+Ctrl L – limpar o Git
+mkdir – criar nova pasta (mkdir livro-receitas)
+	Acessar a pasta (cd livro-receitas)
+git init – iniciar um novo repositório dentro da pasta 
+ls -a – para acessar arquivos ocultos no diretório
