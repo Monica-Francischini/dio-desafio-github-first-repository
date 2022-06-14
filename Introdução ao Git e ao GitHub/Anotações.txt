@@ -7,3 +7,6 @@ mkdir – criar nova pasta (mkdir livro-receitas)
 	Acessar a pasta (cd livro-receitas)
 git init – iniciar um novo repositório dentro da pasta 
 ls -a – para acessar arquivos ocultos no diretório
+
+Links úteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
